@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header" align="center" backgroundColor="black">
     <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="200"/>
     <h1 align="center">Hi there 😀🖐 I´m Melina</h1>
     <h3 align="center">A passionate student web fullstack developer from Argentina. I am finishing  my webs application projects, 
