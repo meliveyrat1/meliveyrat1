@@ -14,9 +14,9 @@
 ### 👩‍💻 About me :
 -🚀 E-Commerce McBurger 🍔 **https://test-deploy-topaz-nine.vercel.app/**
 
--API 🥪 food app **https://github.com/meliveyrat1/Pi-food**
+-🥪 API food app **https://github.com/meliveyrat1/Pi-food**
 
--API 🐶 dogs app **https://github.com/meliveyrat1/Dogs-App**
+-🐶 API dogs app **https://github.com/meliveyrat1/Dogs-App**
 
 -💻 How to reach me **https://www.linkedin.com/in/melina-veyrat-durbex-b66b3b227/**
 
