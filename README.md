@@ -1,7 +1,7 @@
 <div id="header" align="center" backgroundColor="black">
-    <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="200"/>
+    <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="500"/>
     <h1 align="center">Hi there 😀🖐 I´m Melina</h1>
-    <h3 align="center">A passionate student web fullstack developer from Argentina. I am finishing  my webs application projects, 
+    <h3 align="center">A passionate web fullstack developer from Argentina. I´ve recently finished my webs application projects, 
         using all the tools I have learned during the bootcamp, such as html, css, javaScript, react-redux,express,sequalize </h3>
 </div>
 
@@ -12,16 +12,21 @@
 ---
 
 ### 👩‍💻 About me :
+-🚀 E-Commerce McBurger 🍔 **https://test-deploy-topaz-nine.vercel.app/**
 
--🚀 I´m working on a 🐶 dogs app 
+-API 🥪 food app **https://github.com/meliveyrat1/Pi-food**
 
--💻 How to reach me **meliveyrat@gmail.com**
+-API 🐶 dogs app **https://github.com/meliveyrat1/Dogs-App**
+
+-💻 How to reach me **https://www.linkedin.com/in/melina-veyrat-durbex-b66b3b227/**
+
+-📟 Contac me **meliveyrat@gmail.com**
 
 -✈🛫 I love traveling
 
 -🎵 I´m musician
 
--🙋‍♀️ I like to work in teams, I am a fast learner, I am proactive, I like challenges.
+-🙋‍♀️ I like to work in team, I am a fast learner, I am proactive, I like challenges.
 
 <div  align="left">
   <h3>🛠 Lenguages and tools:</h3> 
