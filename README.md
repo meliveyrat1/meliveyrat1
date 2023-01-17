@@ -1,5 +1,5 @@
 <div id="header" align="center" backgroundColor="black">
-    <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="500"/>
+    <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="400"/>
     <h1 align="center">Hi there 😀🖐 I´m Melina</h1>
     <h3 align="center">A passionate web fullstack developer from Argentina. I´ve recently finished my webs application projects, 
         using all the tools I have learned during the bootcamp, such as html, css, javaScript, react-redux,express,sequalize </h3>
