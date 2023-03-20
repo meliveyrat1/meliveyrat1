@@ -24,7 +24,7 @@
 
 -💻 How to reach me **https://www.linkedin.com/in/melina-veyrat-durbex-b66b3b227/**
 
--📟 Contac me **meliveyrat@gmail.com**
+-📟 Contact me **meliveyrat@gmail.com**
 
 -✈🛫 I love traveling
 
